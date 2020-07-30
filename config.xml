@@ -1,9 +1,6 @@
 {
 	"config": [{
 		"splash_image": "https://splash.realanime.xyz/Makomo_Anime.png",
-		"host": "https://web.i59400f.xyz",
-		"exp_host": "https://web.i59400f.xyz",
-		"main_host": "https://raw.githubusercontent.com/ntah/animlovers/master",
 		"info": "0",
 		"info_message": "Beta test rilis",
 		"under_maintenance": "0",
