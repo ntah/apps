@@ -1,0 +1,10 @@
+<AppUpdater>
+  <update>
+    <latestVersion>2.44</latestVersion>
+    <url>https://play.google.com/store/apps/details?id=site.realanime.animlov.animlov</url>
+    <releaseNotes>
+~ Fix freeze chat bugs (thanks to Djodi zzz)
+~ Add overlay video
+   </releaseNotes>
+  </update>
+</AppUpdater>
