@@ -19,7 +19,7 @@
 		"adsvideo": "300",
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
-		"MainActivity": "unity",
+		"MainActivity": "inmobi",
 		"DetailActivity": "appnext",
 		"LainnyaActivity": "applovin",
 		"EpisodeActivity": "startapp",
