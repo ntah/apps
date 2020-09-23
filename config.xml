@@ -20,11 +20,11 @@
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
 		"MainActivity": "inmobi",
-		"DetailActivity": "applovin",
+		"DetailActivity": "ntah",
 		"LainnyaActivity": "unity",
 		"EpisodeActivity": "unity",
-		"VideoPlayActivity": "unity",
-		"OtherActivity": "unity"
+		"VideoPlayActivity": "ntah",
+		"OtherActivity": "ntah"
 	}]
 }
 /*ads startapp, appnext, inmobi, unity, ironsrc */
