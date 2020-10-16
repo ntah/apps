@@ -19,11 +19,11 @@
 		"adsvideo": "600",
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
-		"MainActivity": "inmobi",
+		"MainActivity": "unity",
 		"DetailActivity": "ntah",
-		"LainnyaActivity": "unity",
-		"EpisodeActivity": "unity",
-		"VideoPlayActivity": "unity",
+		"LainnyaActivity": "inmobi",
+		"EpisodeActivity": "ntah",
+		"VideoPlayActivity": "ntah",
 		"OtherActivity": "ntah"
 	}]
 }
