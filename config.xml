@@ -23,7 +23,7 @@
 		"DetailActivity": "ntah",
 		"LainnyaActivity": "unity",
 		"EpisodeActivity": "unity",
-		"VideoPlayActivity": "ntah",
+		"VideoPlayActivity": "unity",
 		"OtherActivity": "ntah"
 	}]
 }
