@@ -21,8 +21,8 @@
 		"adsvideo_end": "0",
 		"MainActivity": "inmobi",
 		"DetailActivity": "ntah",
-		"LainnyaActivity": "inmobi",
-		"EpisodeActivity": "inmobi",
+		"LainnyaActivity": "ntah",
+		"EpisodeActivity": "ntah",
 		"VideoPlayActivity": "unity",
 		"OtherActivity": "inmobi"
 	}]
