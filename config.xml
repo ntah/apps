@@ -20,7 +20,7 @@
 		"adsvideo_start": "1",
 		"adsvideo_end": "0",
 		"MainActivity": "inmobi",
-		"DetailActivity": "inmobi",
+		"DetailActivity": "unity",
 		"LainnyaActivity": "unity",
 		"EpisodeActivity": "inmobi",
 		"VideoPlayActivity": "unity",
