@@ -23,7 +23,7 @@
 		"DetailActivity": "unity",
 		"LainnyaActivity": "unity",
 		"EpisodeActivity": "inmobi",
-		"VideoPlayActivity": "unity",
+		"VideoPlayActivity": "none",
 		"OtherActivity": "unity"
 	}]
 }
